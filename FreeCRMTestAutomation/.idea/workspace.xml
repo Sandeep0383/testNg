@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7183c83-18db-4152-a192-3462d025ca45" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PQQFlotzFFp6IHDd9qYzsITYDK" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTest">
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="freecrmtest.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="freecrmtest.testcases" />
+      <option name="MAIN_CLASS_NAME" value="freecrmtest.testcases.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.clicksignuptest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="freecrmtest.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="freecrmtest.testcases" />
+      <option name="MAIN_CLASS_NAME" value="freecrmtest.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="clicksignuptest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.crmlogoimagetest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="freecrmtest.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="freecrmtest.testcases" />
+      <option name="MAIN_CLASS_NAME" value="freecrmtest.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="crmlogoimagetest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="freecrmtest.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="freecrmtest.testcases" />
+      <option name="MAIN_CLASS_NAME" value="freecrmtest.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginpagetitletest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FreeCRMTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="freecrmtest.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="freecrmtest.testcases" />
+      <option name="MAIN_CLASS_NAME" value="freecrmtest.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginpagetitletest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.LoginPageTest.loginTest" />
+        <item itemvalue="TestNG.LoginPageTest.clicksignuptest" />
+        <item itemvalue="TestNG.LoginPageTest.crmlogoimagetest" />
+        <item itemvalue="TestNG.LoginPageTest.loginpagetitletest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\punda\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7183c83-18db-4152-a192-3462d025ca45" name="Default Changelist" comment="" />
+      <created>1565803739006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565803739006</updated>
+    </task>
+    <servers />
+  </component>
+</project>

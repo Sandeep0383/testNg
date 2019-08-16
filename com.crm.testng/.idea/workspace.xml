@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b978630-f28c-4448-8527-38de60039d37" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PN7qjqrSOzaNiVa0TUR0R5zD1y" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.crm.testng" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.googletitletest">
+    <configuration name="ExceptionTimeoutTest.infinitlooptest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.crm.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.testng.ExceptionTimeoutTest" />
+      <option name="METHOD_NAME" value="infinitlooptest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTimeoutTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.crm.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.testng.ExceptionTimeoutTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googletitletest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.crm.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.testng.googletitletest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googletitletest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.crm.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.testng.googletitletest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googletitletest.googletitletest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.crm.testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.testng.googletitletest" />
+      <option name="METHOD_NAME" value="googletitletest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.googletitletest" />
+        <item itemvalue="TestNG.googletitletest.googletitletest" />
+        <item itemvalue="TestNG.googletitletest (1)" />
+        <item itemvalue="TestNG.ExceptionTimeoutTest.test1" />
+        <item itemvalue="TestNG.ExceptionTimeoutTest.infinitlooptest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\punda\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b978630-f28c-4448-8527-38de60039d37" name="Default Changelist" comment="" />
+      <created>1565702892982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565702892982</updated>
+    </task>
+    <servers />
+  </component>
+</project>
